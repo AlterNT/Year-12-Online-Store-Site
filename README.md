@@ -1,5 +1,7 @@
 # Online Store Website - Year 12 Project
 
+![Site Image](https://i.imgur.com/wy5JQzT.png)
+
 ## Purpose and Goals
 
 The original goal of this assignment was to create an online store mockup of a chosen theme.
